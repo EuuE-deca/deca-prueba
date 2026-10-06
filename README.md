@@ -1,2 +1,5 @@
-# deca-prueba
-Prueba de generación y publicación de documentos DeCA
+# DeCA — prueba GitHub Pages
+
+Prueba técnica de publicación de un documento PDF.
+
+**Todos los datos son ficticios.**
